@@ -1,5 +1,0 @@
-docker run -d -p 80:80 golang-app
-29181e538b4f926796902dd93d4d4f9ee3a798ce6180bfbf34d62468229f7d4f
-[root@host01 golang-http-server]# curl localhost
-<h1>This request was processed by host: 29181e538b4f</h1>
-[root@host01 golang-http-server]#
