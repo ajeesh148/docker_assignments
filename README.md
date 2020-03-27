@@ -7,7 +7,6 @@
 - docker
 - docker-compose
 
-#### This branch helps you to understand basics of docker ####
+#### This repo have the following branches ####
 
-- docker-examples - This branch will have basic docker examples
-
+- docker-build - This branch will have examples on the docker build
