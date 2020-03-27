@@ -7,9 +7,6 @@
 - docker
 - docker-compose
 
-#### This repo have the following branches ####
+#### This branch helps you to understand basics of docker ####
 
-- master - This will help you to set up your ec2 instance
 - docker-examples - This branch will have basic docker examples
-- docker-build - This branch will have examples on the docker build
-- docker-compose - This branch will have examples on the docker compose
