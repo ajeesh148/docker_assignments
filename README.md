@@ -13,11 +13,9 @@
 >
 *You can use the link provided below for using the terraform and ansible*
 
-You also need to enable WSL to run ansible the steps are mentioned here:
-https://ajoybharath.in/linux-inside-windows-10/
-Install Terraform from the link: https://www.terraform.io/downloads.html
-
-Ansible installation from the link: https://plenium.wordpress.com/2017/11/20/install-ansible-on-
+- You also need to enable WSL to run ansible the steps are mentioned here: https://ajoybharath.in/linux-inside-windows-10/
+- Install Terraform from the link: https://www.terraform.io/downloads.html
+- Ansible installation from the link: https://plenium.wordpress.com/2017/11/20/install-ansible-on-
 windows-10/
 
 If you’re using MacOS or Linux, you don’t need these and can directly install the terraform and ansible
