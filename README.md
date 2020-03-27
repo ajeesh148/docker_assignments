@@ -2,12 +2,12 @@
 
 ### Pre requisites ###
 
-*You need to ahve all the components below to start with this*
+*You need to have all the components below to start with this*
 
 - docker
 - docker-compose
 
-#### This repo has the following branches ####
+#### This repo have the following branches ####
 
 - master - This will help you to set up your ec2 instance
 - docker-examples - This branch will have basic docker examples
